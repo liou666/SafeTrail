@@ -400,6 +400,8 @@
 				DEVELOPMENT_TEAM = PPA95GBR7A;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "SafeTrail需要访问您的位置来提供安全保护服务，记录行程路线，确保您的安全";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "SafeTrail需要访问您的位置来提供安全保护服务";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -428,6 +430,8 @@
 				DEVELOPMENT_TEAM = PPA95GBR7A;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "SafeTrail需要访问您的位置来提供安全保护服务，记录行程路线，确保您的安全";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "SafeTrail需要访问您的位置来提供安全保护服务";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
